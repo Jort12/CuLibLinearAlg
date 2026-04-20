@@ -2,6 +2,7 @@
 
 namespace linalg {
 
-// Explicit template instantiations can go here once implementations are added.
+	template class Matrix<float>;
+	template class Matrix<double>;
 
 } // namespace linalg
